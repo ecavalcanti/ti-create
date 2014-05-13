@@ -3,7 +3,7 @@
   "main": "./lib/ti-create",
   "version": "0.0.1",
   "description": "Creates a controller, view and style for an Alloy project",
-  "repository": "",
+  "repository": "https://github.com/m1ga/ti-create",
   "license": "MIT",
   "activationEvents": [
     "ti-create:view",
