@@ -1,0 +1,19 @@
+{
+  "name": "ti-create",
+  "main": "./lib/ti-create",
+  "version": "0.0.1",
+  "description": "Creates a controller, view and style for an Alloy project",
+  "repository": "",
+  "license": "MIT",
+  "activationEvents": [
+    "ti-create:view",
+    "ti-create:style",
+    "ti-create:controller"
+],
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+      "pathwatcher": "1.2.1"
+  }
+}

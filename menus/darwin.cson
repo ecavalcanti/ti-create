@@ -1,0 +1,17 @@
+'menu': [
+  {
+    'label': 'Titanium'
+    'submenu': [
+      {
+        'label': 'Create',
+        'submenu': [
+
+          {
+            'label': 'Controller'
+            'command': 'ti-create:controller'
+          }
+        ]
+    }
+    ]
+  }
+]
