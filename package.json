@@ -6,9 +6,8 @@
   "repository": "https://github.com/m1ga/ti-create",
   "license": "MIT",
   "activationEvents": [
-    "ti-create:view",
-    "ti-create:style",
-    "ti-create:controller"
+    "ti-create:controller",
+    "ti-create:widget"
   ],
   "engines": {
     "atom": "*"

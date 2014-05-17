@@ -9,6 +9,9 @@
           {
             'label': 'Controller'
             'command': 'ti-create:controller'
+          },{
+            'label': 'Widget'
+            'command': 'ti-create:widget'
           }
         ]
     }
