@@ -7,6 +7,9 @@
         'submenu': [
 
           {
+            'label': 'Project'
+            'command': 'ti-create:project'
+          },{
             'label': 'Controller'
             'command': 'ti-create:controller'
           },{

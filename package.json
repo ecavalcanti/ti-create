@@ -7,7 +7,8 @@
   "license": "MIT",
   "activationEvents": [
     "ti-create:controller",
-    "ti-create:widget"
+    "ti-create:widget",
+    "ti-create:project"
   ],
   "engines": {
     "atom": "*"
