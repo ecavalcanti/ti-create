@@ -1,3 +1,6 @@
+## 0.6.0
+- move to package menu
+
 ## 0.5.0
 - last versions code got missing
 - ESC and widget are back again
