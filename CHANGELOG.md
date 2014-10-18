@@ -1,4 +1,4 @@
-## 0.6.0
+## 0.7.0
 - move to package menu
 
 ## 0.5.0
