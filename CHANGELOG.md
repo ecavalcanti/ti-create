@@ -1,4 +1,8 @@
-## 0.7.0
+## 0.8.0
+- new project will create an alloy project
+- use cli to create controller and widget
+
+## 0.6.0
 - move to package menu
 
 ## 0.5.0
