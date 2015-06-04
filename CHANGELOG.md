@@ -1,3 +1,7 @@
+## 0.9.0
+- removed project, need to rewrite it
+- fixed input text 
+
 ## 0.8.0
 - new project will create an alloy project
 - use cli to create controller and widget
